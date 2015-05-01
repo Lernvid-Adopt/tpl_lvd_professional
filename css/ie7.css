@@ -1,0 +1,13 @@
+﻿#content_outer {
+	width: 99.8%;
+	margin:0;
+}
+#content {
+	width: auto;
+}
+#user_modules2 {
+	width: 99%;
+}
+.pagenav {
+	border: none;
+}
